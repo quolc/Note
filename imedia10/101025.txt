@@ -1,0 +1,92 @@
+﻿次回以降無線AP設置
+
+ホームページ
+	http://rkmt.net/imedia10
+	login: xxxxxxxx
+	password: xxxxxxxx
+	
+暦本純一 (49)
+	情報学環　暦本研
+	lab.rekimoto.org
+	@rkmt
+	rekimoto@acm.org
+	
+成績評価
+	出席
+	ホームワーク
+	最終課題発表
+		近未来のインターフェースについての提案
+
+インタラクティブシステムの誕生
+	1823		Differential Engine 階差機関	Charles Babbege
+		決まったルールに基づいた数列の生成
+		-> Analytical Engine（パンチカード式）
+	
+	1946		ENIAC
+		コード接続式プログラミング
+	
+	-- Batch -> TSS -> CUI
+	
+	1962		Sketchpad		Ivan Sutherland
+		世界最初のインタラクティブシステム（GUI）
+			対話型
+			直接操作（ライトペン）
+			制約による描画	Human Argumentation
+		MIT TX-2
+			0.08MIPS
+			288KBytes
+			1024*1024
+			Magnetic Core Memory
+	
+	Douglas C.Engelbart
+		マウスの開発
+		鍵盤型インターフェース
+		"Augmenting" Human Intellect <- Algorithmic Design
+		NLS
+		Visual display
+		Hypertext
+		Word-processing
+		Multiple Window
+		Group ware
+		Alan Kay
+			"I don't know what Silicon Valley will do when it running out of Doug's ideas."
+	
+	以降のHCI研究
+		マウスの次は何？
+		
+	1991		Ubiquitous Computing		M.Weiser
+		Calm & Invisible
+		実空間全体のコラボレート・デザイン
+	
+	参考書籍
+		"The New Media Reader"
+		『思想としてのパソコン』
+	
+	Keywords
+		process capability structure symbol computer system concept augmentation human possibility statement development way language...
+		
+	人間と機械のカップリングシステム - 第三世代コンピュータ
+	
+	1945		AS WE MAY THINK		Vannever Bush
+		Human Intellect Argumentation コンセプトの先駆
+		
+		MEMEX : MEMory EXtender ... like web
+			"a mesh of associative trails"
+		
+		カメラの装着による無限の記憶能力				
+			Aided Eyes （2010）
+				視線方向のみの情報を記録
+	
+	Alay Kay
+		分子生物学 -> Music -> Programming	
+		Alto
+			Moddern GUI の形態を決定付けた
+		
+
+Homework 1
+	2010年現在の情報機器で、Bush, Engelbart, Sutherlandらのシステムと本質的に異なるところはどこだと思うか。
+	実例を一つ挙げよ。どこがどう変化（進化）したのか説明せよ。
+	PDF/powerpoint等、1ページ程度
+	rekimoto@acm.orgまでメール提出（締切: 10/31 PM10:00）
+	Subject: [iMedia10-1]を付ける
+	次回発表

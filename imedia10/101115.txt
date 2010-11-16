@@ -1,0 +1,74 @@
+﻿「つくりかた」の未来
+多摩美術大学　久保田晃弘
+
+FabLab Japan
+Bioart.jp
+
+情報 X 物質
+	一体化
+	… material X fabrication
+
+Digital Fabrication
+	Cutteing Machine
+	Sewing Machine
+	3D Printer
+
+パーソナルアトリエ = DTF　<- DTP/DTMの延長
+
+文字・画像情報 -> 音声情報 -> 素材　というComputer Supported Accesibility/Makablityの拡張
+	Online [3D] Printing Services
+
+ソーシャルデザイン
+	Make: / instructable
+	DIY -> DIWO(Do It With Others)
+	[UN]Limited Design Contest
+	DTFの敷居を下げる
+	Etsy ... Buy:Handpicked Items
+
+Computation
+	SketchChair
+		ハンドスケッチ
+		物理シミュレーション
+		3D出力
+	デザインのインディーズ化
+		Magic Box
+		iScriptDesign
+		Nervous System
+		OpaBold
+		etc...
+	DesignへのAlgorithm/ScriptCodingの注入
+	
+Personal FabricationのためのInteractiveなInterfaceとは。
+	Beautiful Modeller
+
+TechnologyのPersonalizationによる文化の発生
+
+	FabLab ~ Kinko's of Fabrication / Craft Room + Computer Lab
+	図書館というメタファーの拡張
+	Intellect Archive/Sharing not only of Texts/Books but of Fabrication and all of Human Creativity
+	
+	娯楽として、あるいは産業として、大文字の芸術として外部化された制作（デザイン）行為の、人間への回帰・再獲得
+	読み書きと同様、人間の基本的な営みとしての制作
+	全ての(Other 90%)ニーズに応える、地産地消のデザイン行為
+
+	医者のように街に（村に）一人のデザイナー、乳母のように家に一人のデザイナーへ
+	
+	"Designer" <-> Mass Production ... As Counter Culture
+		-> Re-declaration
+		
+Fluid Interface Group
+
+BioHacking / Bioart
+	genome=bit <-> cell=atom
+	Synthetic Biology 
+		iGEM ... 大腸菌のロボコン！？
+		人工細胞研究
+		＜グレイグ・ベンター　「人工生命」について発表する＞
+
+Programmable Matter / Intelligent Material
+
+
+3D Scanner
+	ラスタ的、情報量が莫大
+	ベクター化の技術が不十分
+	

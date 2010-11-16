@@ -1,0 +1,86 @@
+﻿Homework 発表
+
+学生A
+	「情報機器と人間の触れ方の変化」
+
+	構造的にはあまり変わらない、60年代には基本は完成していた
+	高速化・大きさ・価格のカジュアル化
+	例：スマートフォン
+	時間・場所の制約がなくなった
+	コミュニケーションの情報システムへの依存、あるいは征服
+	
+	情報リテラシーという概念、情報機器の大衆化、プロフェッショナルユースからの脱却
+	
+	discussion
+		実世界コンテキストの発生
+		着用化、「コンピューター」からの脱却
+
+学生B(quolc)
+	「Augmentationの有り方の違い」
+	略
+
+	discussion
+		集合知（conscious / unconscious）
+		管理社会化の可能性、Google(GMail)の権力性
+		傍受による悪用可能性、ストーキング？
+		Twitterで株式市場動向予想？
+		利用者の問題？
+	
+学生C
+	「情報機器のSecurityの質的変化」
+	認証技術・・・生体認証、etc
+	普及の過程での一般ユーザーによるアクセシビリティの発生と、被アクセシビリティの発生
+	ハッカー、クラッカーの登場
+	ユーザーが原因のセキュリティの危機 … パスワード設定など
+	
+	次世代セキュリティについての深い考察が要求される
+		自己同一性とは？
+	生体認証はimprintedな情報、捨てることは出来ない。逆にパスワードはいくらでもリセットができる。
+	
+講義
+	GUIの発祥
+		Direct Manipulation
+			Visualなrepresentation(metaphor)
+			rapid, incremental, reversibleなaction
+			Command-baseな処理の置換
+	変化として…
+		サイズ / カジュアル化
+		モビリティ
+		ユビキタス
+		実世界連携
+		コミュニケーション
+		エンターテイメント
+		センシング・アクチュエーション
+		ユーザー層の変化
+		インタラクション
+	
+	Computer World <-> GUI <-> Human <-> ? <-> Real World
+	VR: 	人をComputer Worldに閉じ込める
+	Ubi:	Real World中へのComputer Worldの埋め込み
+	AR:		Real World中への
+	
+	Marking Menu
+		フリック入力に似てる
+		ｎ重のメニューも連鎖的な動きとして実現できる
+		慣れると体にimprintされていく
+		
+	「実世界志向インターフェース」 : メタファの超越
+		
+	Ubiquitous Computing (M.Weiser) のアイデア
+		GUIへの依存は依然として残る
+		
+	Pick&Drop : Information transition
+	SmartSkin
+	Augmented Surface
+		物理的な移動を実現する / デバイスに制約されないインターフェース
+		Real WorldとComputer Worldを人の体で接続する
+	
+	Multitouch - ただの複数点制御ではなく、時間的にLinearな操作を横方向に拡張した。
+	
+	Gesture Sensing - NATAL
+		もはやデバイスを保持しないインターフェース
+	LightSpace
+		全空間リアルタイム三次元計測
+		-> 部屋全てをインテグレートした情報環境
+		
+	XRDS

@@ -1,0 +1,66 @@
+﻿情報メディア表現論 11/08
+
+集合知と情報メディア
+
+	Crowd : Internet上の雑多な情報 ... ユーザーが吐き出す
+		Engine →　Meaning
+		
+	明示性
+		明示的
+			wikipedia
+		... Augmented Human Intellect Use
+	
+		非明示的
+			PageRank
+				スコアリング・参照による分配
+				コンテンツではなく、関係性による解析
+				コンテンツ解釈はHuman Intellectに委託 - 構造的カップリング
+				"The PageRank Citation Ranking: Bringin Order to the Web"　Larry Page, Sergey Brin
+			
+			協調フィルタリング
+				ユーザーごとのDicisionを集積、
+				Targetと他のユーザーの相関係数を取り、未知の決定を予測
+		
+		... Augmented Human Intellect by coupling with Computation
+		
+	Google Trend
+		Webでの単語の言及数を統計
+		地域性・流行性の解析 - Flu trends
+		話題相場 → 選挙、先物市場予想
+	
+	Twitter mood predicts the stock market
+		感情語の抽出
+		Calm尺度と株式市場の相関
+	
+	amazon mechanical turk
+		仕事の最小単位分割、分配
+		「労働者」ではなく「労働資源」としてのHuman Intellectの活用
+		
+	Scene Completion Using Millions of Photographs
+		莫大な数の写真から適当に空白部分が自然になるようマッチングする
+		
+	Collective typeface
+	
+	A city is not a tree
+		人間の位置感覚 : x:木構造, 住所, 経緯　o:「原宿」
+		Flicker
+			タグ「原宿」 | Geotag 対応の空間集合知
+			渋谷と原宿の境界
+			Lifelog-Summarization
+		
+	Wiper Sensing + GPS = Weather Map
+	
+	Folksonomy Sensonomy
+		Real / Virtual
+		Un-Intentional / Intentional
+
+H.W.
+	集合知として利用できる情報の例、それによって形成できるサービスを提案
+	実在しないものがより望ましい
+	
+		
+	"Participatory Sensing"
+		
+雑多
+	Algorithmcal に決定された生活の提案
+		...
