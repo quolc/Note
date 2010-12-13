@@ -1,6 +1,6 @@
 ﻿テーマ講義
 	慶應大学大学院　メディアデザイン研究科
-	稲見章彦　(@drinami)
+	稲見昌彦　(@drinami)
 
 "Human Augmentation" - 機能を「透明」にする
 
