@@ -11,7 +11,7 @@
 	2.0のフェイズ : サービス, ガバナンス, 制度まで含めた実用を前提とした議論
 	
 
-Part 1	Technologies and appliations of Ubiuitous computing
+Part 1	Technologies and applications of Ubiquitous computing
 
 	Ubiquitous Computing - 「遍在するコンピュータ」
 		1980-1990年代に提議された, ポストPC, ポストインターネットのパラダイム
@@ -26,9 +26,9 @@ Part 1	Technologies and appliations of Ubiuitous computing
 		状況に応じるサービスの個別化
 		Context-awareness : 実世界の状況認識 - Technology
 			いま		時計によって
-			ここ		GPSだけで表現できるか?
+			ここ		GPSだけで表現できるか？
 					物理的位置に限らず, 主観性やシチュエーションまで考慮する必要がある
-			あなた	ユーザ
+			あなた	ユーザは誰か？
 	
 	1989 TRON Smart House (坂村健)
 		1000ノードのコンピュータ群を埋め込んだ住宅展示
